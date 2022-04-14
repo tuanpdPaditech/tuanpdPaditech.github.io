@@ -1,1 +1,0 @@
-# tuanpdPaditech.github.io
