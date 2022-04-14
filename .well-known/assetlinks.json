@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "staging.com.paditech.diageo",
+               "sha256_cert_fingerprints": ["38:67:CF:C6:20:30:BB:C7:BF:DB:E1:01:CC:3A:14:89:89:10:C0:25:E3:02:94:CD:07:EA:92:86:8E:17:D5:C6"] }
+}]
